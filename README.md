@@ -1,4 +1,4 @@
-# Hollywood Movie Dataset
+# Hollywood Movie
 
 ## Dataset Description
 
