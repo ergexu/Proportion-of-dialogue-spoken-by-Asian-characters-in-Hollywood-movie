@@ -8,6 +8,3 @@ This dataset, obtained from [https://dataverse.harvard.edu/dataset.xhtml?persist
 
 The primary research question for this analysis is focused on exploring the representation of Asian characters in Hollywood movies. Specifically, we aim to investigate the proportion of dialogue lines (EXTRACTED_WORDS) spoken by Asian characters and how this representation has changed over time.
 
-## Ratio of Extracted Words by Non-White Character Race
-![Ratio of Extracted Words by Non-White Character Race](main)
-
