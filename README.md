@@ -2,7 +2,7 @@
 
 ## Dataset Description
 
-This dataset, obtained from [source name or link], provides information about characters and dialogues in Hollywood movies. It covers a range of attributes such as actor names, genders, character races, and extracted words from dialogues. The dataset spans from 1970 to 2014.
+This dataset, obtained from [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY], provides information about characters and dialogues in Hollywood movies. It covers a range of attributes such as actor names, genders, character races, and extracted words from dialogues. The dataset spans from 1970 to 2014.
 
 ## Research Question
 
